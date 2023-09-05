@@ -1,0 +1,32 @@
+mongodb+srv://AYA:AYA122002@@cluster0.vjgivsh.mongodb.net/dbname
+
+
+mongodb+srv://AYA:<password>@cluster0.vjgivsh.mongodb.net/
+
+ongodb+srv://ayakamal2002:aya123456@cluster0.kk8pwff.mongodb.net/
+
+collections =>users , product,cart =>moels
+
+user->name,fname,lname,email,password,address,phone###user-model & user-api & user-servi
+
+admin nafs elnzam el user+manage delet add edit
+
+products=>price ,name, detail,color ###product-model & product-api & product-servi
+
+admin=>validation 
+	
+cart=>
+
+#slug
+#trim
+#params
+#morgan
+#router
+
+login ,sign in &out
+
+Validation
+
+#####!!!!!!!!!!!operational err
+
+//postman//
